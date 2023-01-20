@@ -1,7 +1,6 @@
 
 
 def find_factorial_of_a_number(num):
-
     if num < 0:
         print("factorial is not present for negative numbers")
 
