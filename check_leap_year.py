@@ -6,5 +6,5 @@ def check_leap_year(year):
     else:
         print("It is not a Leap Year")
 
-year = int(input("Enter the Year:"))
+year = int(input("Please Enter the Year:"))
 check_leap_year(year)
